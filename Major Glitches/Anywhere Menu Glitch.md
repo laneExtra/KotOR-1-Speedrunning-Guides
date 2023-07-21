@@ -1,8 +1,8 @@
-[h1]Anywhere Menu Glitch[/h1]
+# Anywhere Menu Glitch
 
 [small]*Discovered by lanedibello*[/small]
 
-[h2]Description/h2[]
+## Description
 
 Anywhere Menu Glitch is a glitch that allows you to have limited control over your characters while in a menu screen or during a cutscene.
 
