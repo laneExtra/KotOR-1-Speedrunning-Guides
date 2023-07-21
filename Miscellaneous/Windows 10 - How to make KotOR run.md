@@ -1,3 +1,4 @@
+# This is a test
 Heya everyone,
 I'm not sure if it was the good section to do this, but I didn't see any other so here I am. As you can see I'm not a runner of this game, not yet, but I have played countless hours on KotOR and I had the displeasure of trying to make it work on Windows 10. Now there are already guides on the internet, but I figured a guide here would be cool for people trying to begin the speedrun and not wanting to revert to windows 7 for one game. So here it comes, ladies and gentlemen, easy fixes for KotOR on the bizarre 10th window.
 
